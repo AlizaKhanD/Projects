@@ -1,2 +1,2 @@
 # Pyproject
-fun projects : project from dataquest
+Small data projects using SQL and Python, inspired by platforms like Dataquest.
